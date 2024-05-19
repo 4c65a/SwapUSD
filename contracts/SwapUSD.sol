@@ -9,7 +9,6 @@ import "@openzeppelin/contracts/access/Ownable.sol";
 
 /** 
 @title SwapUSD
-@author Leandro
 @notice This smart contract is a basic swap usd/eth
 @dev This smart contrac is build only for me learning.I am not an expert
 */
